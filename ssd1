@@ -1,4 +1,4 @@
-#profile-title:    🧲Магнит🧲
+#profile-title:🧲Магнит🧲
 #subscription-userinfo: upload=∞; download=∞; total=0; expire=2222222229;
 #support-url: https://t.me/max_bingo
 #profile-web-page-url: https://t.me/google_4g
@@ -37,6 +37,34 @@ vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@fi3.tutnet.online:8443?flow=xtls-rp
 vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@pl2.tutnet.online:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=www.google.com&pbk=QZCzUdSa0d6Ru9wGR7r1sTBMZzWrhttRQwkVwvIB_j0&sid=0c&spx=/CRe54MAkDLxbI8U#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0,%20%D0%92%D0%B0%D1%80%D1%88%D0%B0%D0%B2%D0%B0🟢
 
 vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@stream.streamlive24.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=google.com&pbk=LFNgoRSjsx7usp63l44X3VV1stRGJyTyavB2Us9WUXw&sid=656c3e18fe09&spx=/TTBY4xKvw3J7Qkk#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0,%20%D0%92%D0%B0%D1%80%D1%88%D0%B0%D0%B2%D0%B0-2🟢
+
+
+WiFi сервера улитка 
+
+vless://c9b22cca-6e4e-4d10-960d-eab42204fecf@no1.vpn-nn.ru:1443?security=reality&encryption=none&pbk=HtR5thzp2BQtfKdCXv0XIlWbR0A4_JXxHx8Lgv7D-jo&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=ozon.ru&sid=59630918#%F0%9F%87%B3%F0%9F%87%B41+%7C+Wi-Fi+%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80+%231🟢
+
+vless://c223300c-69a4-4f35-a6a6-c4f0048fe2e5@de1.vpn-nn.ru:2443?security=reality&encryption=none&pbk=SKI8tnl7Vpe2IVRl8yigPGEf11Oi-saHjRrCTE8YcWY&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=dropbox.com&sid=494c6c5f#%F0%9F%87%A9%F0%9F%87%AA2+%7C+Wi-Fi+%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80+%232🟢
+
+vless://53003700-d02a-4fb9-a6dd-32450a4e5e0e@ru19.vpn-nn.ru:443?security=reality&encryption=none&pbk=RLsWTZ60PwU5o1PmHGv8hrQnaUF-5KVOmkAMlq5ZR3w&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&sni=yandex.ru&sid=78#%F0%9F%87%B3%F0%9F%87%B13+%7C+Wi-Fi+%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80+%233🟢
+
+trojan://kQX8Zjw1ckevnTz2M7nLUPMc8rZoHeKw@fi2.nnvpn.io:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=fi2.nnvpn.io#%F0%9F%87%AB%F0%9F%87%AE+%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F🟢
+
+trojan://kQX8Zjw1ckevnTz2M7nLUPMc8rZoHeKw@de2.nnvpn.io:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=de2.nnvpn.io#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F🟢
+
+trojan://kQX8Zjw1ckevnTz2M7nLUPMc8rZoHeKw@nl2.nnvpn.io:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=nl2.nnvpn.io#%F0%9F%87%B3%F0%9F%87%B1+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B🟢
+
+trojan://kQX8Zjw1ckevnTz2M7nLUPMc8rZoHeKw@pl2.nnvpn.io:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=pl2.nnvpn.io#%F0%9F%87%B5%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0🟢
+
+trojan://kQX8Zjw1ckevnTz2M7nLUPMc8rZoHeKw@ee.nnvpn.io:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=ee.nnvpn.io#%F0%9F%87%AA%F0%9F%87%AA+%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F🟢
+
+trojan://kQX8Zjw1ckevnTz2M7nLUPMc8rZoHeKw@ru2.nn-id.com:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=ru2.nn-id.com#%F0%9F%87%B7%F0%9F%87%BA+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F🟢
+
+vless://b1cecca3-a8a1-498b-b75a-d6d456635c3d@go1.nnvpn.io:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=go1.nnvpn.io&fp=chrome&allowinsecure=0&type=grpc&serviceName=%2Fxhttppath-us%2F&sni=go1.nnvpn.io#%F0%9F%87%BA%F0%9F%87%B8+%D0%A1%D0%A8%D0%90+%7C+%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2🟢
+
+
+
+
+
 ----ОБХОДЫ----
 ↓↓↓↓↓↓tytnet↓↓↓↓↓↓
 
