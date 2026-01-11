@@ -75,50 +75,6 @@ vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@ru3.tutnet.online:8443?flow=xtls-rp
 vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@shd.tutnet.online:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=www.ok.ru&pbk=8lw2bGCHCAmY17ESKTLbkv5h40fqOcedkPsjrJ9psgU&sid=830ae3e1cb32&spx=/7yPAltKxzAacWM1#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-2%5B3G/4G/5G%5D
 
 
-vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@158.160.182.133:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=--62z6uJiEkJ58s3CO5YChZ576OqfmxPMw3oiZeyaTY&sid=d8f49691baeee9&spx=/2jqNGcj7ovuwqgz#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-3%5B3G/4G/5G%5D%20NO%20WIFI%20(api-maps.yandex.ru)
-
-
-vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@158.160.182.133:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=sun.cdn.yandex.com&pbk=--62z6uJiEkJ58s3CO5YChZ576OqfmxPMw3oiZeyaTY&sid=d8f49691baeee9&spx=/2jqNGcj7ovuwqgz#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-3%5B3G/4G/5G%5D%20NO%20WIFI%20(sun.cdn.yandex.com)
-
-
-vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@158.160.182.133:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=any.yandex.ru&pbk=--62z6uJiEkJ58s3CO5YChZ576OqfmxPMw3oiZeyaTY&sid=d8f49691baeee9&spx=/2jqNGcj7ovuwqgz#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-3%5B3G/4G/5G%5D%20NO%20WIFI%20(any.yandex.ru)
-
-
-vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@158.160.182.133:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=dns.yandex.ru&pbk=--62z6uJiEkJ58s3CO5YChZ576OqfmxPMw3oiZeyaTY&sid=d8f49691baeee9&spx=/2jqNGcj7ovuwqgz#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-3%5B3G/4G/5G%5D%20NO%20WIFI%20(dns.yandex.ru)
-
-
-vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@158.160.182.133:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=pay.yandex.ru&pbk=--62z6uJiEkJ58s3CO5YChZ576OqfmxPMw3oiZeyaTY&sid=d8f49691baeee9&spx=/2jqNGcj7ovuwqgz#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-3%5B3G/4G/5G%5D%20NO%20WIFI%20(pay.yandex.ru)
-
-
-vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@158.160.182.133:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=api.yandex.ru&pbk=--62z6uJiEkJ58s3CO5YChZ576OqfmxPMw3oiZeyaTY&sid=d8f49691baeee9&spx=/2jqNGcj7ovuwqgz#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-3%5B3G/4G/5G%5D%20NO%20WIFI%20(api.yandex.ru)
-
-
-vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@158.160.182.133:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=ads.x5.ru&pbk=--62z6uJiEkJ58s3CO5YChZ576OqfmxPMw3oiZeyaTY&sid=d8f49691baeee9&spx=/2jqNGcj7ovuwqgz#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-3%5B3G/4G/5G%5D%20NO%20WIFI%20(ads.x5.ru)
-
-
-vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@158.160.182.133:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=io.ozone.ru&pbk=--62z6uJiEkJ58s3CO5YChZ576OqfmxPMw3oiZeyaTY&sid=d8f49691baeee9&spx=/2jqNGcj7ovuwqgz#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-3%5B3G/4G/5G%5D%20NO%20WIFI%20(io.ozone.ru)
-
-
-vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@158.160.182.133:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=vt-1.ozone.ru&pbk=--62z6uJiEkJ58s3CO5YChZ576OqfmxPMw3oiZeyaTY&sid=d8f49691baeee9&spx=/2jqNGcj7ovuwqgz#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-3%5B3G/4G/5G%5D%20NO%20WIFI%20(vt-1.ozone.ru)
-
-
-vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@158.160.182.133:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=cdn1.ozone.ru&pbk=--62z6uJiEkJ58s3CO5YChZ576OqfmxPMw3oiZeyaTY&sid=d8f49691baeee9&spx=/2jqNGcj7ovuwqgz#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-3%5B3G/4G/5G%5D%20NO%20WIFI%20(cdn1.ozone.ru)
-
-
-vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@158.160.182.133:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=sun6-21.userapi.com&pbk=--62z6uJiEkJ58s3CO5YChZ576OqfmxPMw3oiZeyaTY&sid=d8f49691baeee9&spx=/2jqNGcj7ovuwqgz#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-3%5B3G/4G/5G%5D%20NO%20WIFI%20(sun6-21.userapi.com)
-
-
-vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@158.160.182.133:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=sun6-22.userapi.com&pbk=--62z6uJiEkJ58s3CO5YChZ576OqfmxPMw3oiZeyaTY&sid=d8f49691baeee9&spx=/2jqNGcj7ovuwqgz#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-3%5B3G/4G/5G%5D%20NO%20WIFI%20(sun6-22.userapi.com)
-
-
-vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@158.160.182.133:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=eh.vk.com&pbk=--62z6uJiEkJ58s3CO5YChZ576OqfmxPMw3oiZeyaTY&sid=d8f49691baeee9&spx=/2jqNGcj7ovuwqgz#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-3%5B3G/4G/5G%5D%20NO%20WIFI%20(eh.vk.com)
-
-
-vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@158.160.182.133:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=max.ru&pbk=--62z6uJiEkJ58s3CO5YChZ576OqfmxPMw3oiZeyaTY&sid=d8f49691baeee9&spx=/2jqNGcj7ovuwqgz#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-3%5B3G/4G/5G%5D%20NO%20WIFI%20(max.ru)
-
-
-vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@158.160.182.133:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=vkvideo.ru&pbk=--62z6uJiEkJ58s3CO5YChZ576OqfmxPMw3oiZeyaTY&sid=d8f49691baeee9&spx=/2jqNGcj7ovuwqgz#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-3%5B3G/4G/5G%5D%20NO%20WIFI%20(vkvideo.ru)
-
 
 vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@95.163.251.110:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=sun6-21.userapi.com&pbk=jsSdEzUT5YQaYwFZr2riGylbcEcilXPN7Xe5XHIXwW8&sid=cf4b&spx=/6cgOavwBFYLzNTj#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-4%5B3G/4G/5G%5D%20(sun6-21.userapi.com)
 
