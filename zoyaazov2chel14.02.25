@@ -51,13 +51,13 @@ vless://53003700-d02a-4fb9-a6dd-32450a4e5e0e@ru19.vpn-nn.ru:443?security=reality
 нива wifi
 
 
-vless://b3399c9d-ce61-40de-aa18-eca9b6b665b6@germ.overload.ovh:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=speed.overload.ovh&fp=qq&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&sid=a20d3ed244c76426#%F0%9F%94%A5%D0%90%D0%B2%D1%82%D0%BE%20%7C%20(20%20%D0%93%D0%B1%D0%B8%D1%82%2Fc%20BURST%F0%9F%8C%80)
+vless://b3399c9d-ce61-40de-aa18-eca9b6b665b6@germ.overload.ovh:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=speed.overload.ovh&fp=qq&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&sid=a20d3ed244c76426#%F0%9F%94%A5%D0%90%D0%B2%D1%82%D0%BE%20%7C%20(20%20%D0%93%D0%B1%D0%B8%D1%82%2Fc%20BURST%F0%9F%8C%80)🟢
 
-vless://b3399c9d-ce61-40de-aa18-eca9b6b665b6@germ.overload.ovh:8090?security=reality&type=grpc&headerType=&authority=&serviceName=grpc&mode=gun&sni=speed.overload.ovh&fp=qq&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&sid=a20d3ed244c76426#%F0%9F%94%A5%D0%90%D0%B2%D1%82%D0%BE%20%7C%20(20%20%D0%93%D0%B1%D0%B8%D1%82%2Fc%20BURST-FIX%F0%9F%8C%80)
+vless://b3399c9d-ce61-40de-aa18-eca9b6b665b6@germ.overload.ovh:8090?security=reality&type=grpc&headerType=&authority=&serviceName=grpc&mode=gun&sni=speed.overload.ovh&fp=qq&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&sid=a20d3ed244c76426#%F0%9F%94%A5%D0%90%D0%B2%D1%82%D0%BE%20%7C%20(20%20%D0%93%D0%B1%D0%B8%D1%82%2Fc%20BURST-FIX%F0%9F%8C%80)🟢
 
-vless://b3399c9d-ce61-40de-aa18-eca9b6b665b6@178.72.133.193:6443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=game.overload.ovh&fp=qq&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&sid=a20d3ed244c76426#%F0%9F%95%B9%EF%B8%8F%D0%90%D0%B2%D1%82%D0%BE%20%7C%20(20%20%D0%93%D0%B1%D0%B8%D1%82%2Fc%20GAMES%E2%9A%A1)
+vless://b3399c9d-ce61-40de-aa18-eca9b6b665b6@178.72.133.193:6443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=game.overload.ovh&fp=qq&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&sid=a20d3ed244c76426#%F0%9F%95%B9%EF%B8%8F%D0%90%D0%B2%D1%82%D0%BE%20%7C%20(20%20%D0%93%D0%B1%D0%B8%D1%82%2Fc%20GAMES%E2%9A%A1)🟢
 
-vless://b3399c9d-ce61-40de-aa18-eca9b6b665b6@game.overload.ovh:7443?security=reality&type=grpc&headerType=&authority=&serviceName=grpc&mode=gun&sni=game.overload.ovh&fp=qq&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&sid=a20d3ed244c76426#%F0%9F%95%B9%EF%B8%8F%D0%90%D0%B2%D1%82%D0%BE%20%7C%20(20%20%D0%93%D0%B1%D0%B8%D1%82%2Fc%20GAMES-FIX%E2%9A%A1)
+vless://b3399c9d-ce61-40de-aa18-eca9b6b665b6@game.overload.ovh:7443?security=reality&type=grpc&headerType=&authority=&serviceName=grpc&mode=gun&sni=game.overload.ovh&fp=qq&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&sid=a20d3ed244c76426#%F0%9F%95%B9%EF%B8%8F%D0%90%D0%B2%D1%82%D0%BE%20%7C%20(20%20%D0%93%D0%B1%D0%B8%D1%82%2Fc%20GAMES-FIX%E2%9A%A1)🟢
 
 WiFi сервера улитка
 
@@ -77,11 +77,11 @@ vless://b1cecca3-a8a1-498b-b75a-d6d456635c3d@go1.nnvpn.io:443?mode=gun&security=
 
 WiFi сервера за 200
 
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@news2.applecloud.com.co:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=apple.com&fp=&pbk=odXHGhgXSfzVffOcJqL9mxOAl2MxS-3A6LCdFus1TRU&sid=809b762e0b21662d&spx=%2F#🟢
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@news2.applecloud.com.co:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=apple.com&fp=&pbk=odXHGhgXSfzVffOcJqL9mxOAl2MxS-3A6LCdFus1TRU&sid=809b762e0b21662d&spx=%2F#📡🟢
 vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@wifi1.applecloud.com.co:443?security=reality&type=grpc&headerType=&authority=&serviceName=&mode=gun&sni=api-maps.yandex.ru&fp=random&pbk=JooGKtLNpFaUjXzLqMY9iDqzV35h4MBXvtiDFxtuzW0&sid=4228c3588b1da333&spx=%2F#📡 WiFi🟢
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@188.225.72.77:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=timeru.applecloud.com.co&fp=chrome&pbk=k35XW_7GaddDE54fNPhIijo8wjhpVaSRJTkltB17Kl4&sid=bbe7cea59ba5fc76&spx=%2F#🇷🇺 Россия
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@216.227.161.232:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=whatsapp2.applecloud.com.co&fp=chrome&pbk=562moBt-GSd523ulS7DZyVSfgbNwuu1-O7iaZVJNEjE&sid=bbe7cea59ba5fc76&spx=%2F#🟢
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@188.225.72.77:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=apple.com&fp=&pbk=sVP4-UbvbM74pqDns1GL5XYyuvamgOcTXNCs-ArHhio&sid=809b762e0b21662d&spx=%2F#для 🟢
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@188.225.72.77:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=timeru.applecloud.com.co&fp=chrome&pbk=k35XW_7GaddDE54fNPhIijo8wjhpVaSRJTkltB17Kl4&sid=bbe7cea59ba5fc76&spx=%2F#🇷🇺 Россия🟢
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@216.227.161.232:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=whatsapp2.applecloud.com.co&fp=chrome&pbk=562moBt-GSd523ulS7DZyVSfgbNwuu1-O7iaZVJNEjE&sid=bbe7cea59ba5fc76&spx=%2F#📡🟢
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@188.225.72.77:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=apple.com&fp=&pbk=sVP4-UbvbM74pqDns1GL5XYyuvamgOcTXNCs-ArHhio&sid=809b762e0b21662d&spx=%2F#для ии🟢
 vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@31.40.204.103:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=apple.com&fp=&pbk=odXHGhgXSfzVffOcJqL9mxOAl2MxS-3A6LCdFus1TRU&sid=809b762e0b21662d&spx=%2F#🇹🇷Турция🟢
 vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@ninja.applecloud.com.co:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ninja.applecloud.com.co&fp=chrome&pbk=dJKogY08pclMRZbw3pyjkX-bDn0C0RjWkbOpoAQ2DXo&sid=6d33f6e12c5df6f5&spx=%2F#🥷 Ниндзя🟢
 vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@nindiya.applecloud.com.co:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=random&pbk=tc1iunMJpzGNrXXa_8FDImojUFs1f6vpMTWDFgoQNEU&sid=a59137af751f33f7&spx=%2F#🇮🇳 Индия🟢
@@ -862,5 +862,6 @@ vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@95.163.214.124:7443?security=realit
 vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@95.163.214.124:7443?security=reality&encryption=none&pbk=11uRrSya3Bzl9tV4JAR8fu9qHXyzmwgbPzERc01lfko&headerType=none&fp=random&spx=%2FXaTl8zuGGjJW3Dw&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun.cdn.yandex.com&sid=d2b74f83295134#%F0%9F%87%B7%F0%9F%87%BA+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-40%5B3G%2F4G%2F5G%5D+%28sun.cdn.yandex.com%29
 
 vless://1ae1ef72-b4a2-4843-b1ab-e942fdaa6ac6@95.163.214.124:7443?security=reality&encryption=none&pbk=11uRrSya3Bzl9tV4JAR8fu9qHXyzmwgbPzERc01lfko&headerType=none&fp=random&spx=%2FXaTl8zuGGjJW3Dw&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d2b74f83295134#%F0%9F%87%B7%F0%9F%87%BA+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-40%5B3G%2F4G%2F5G%5D+%28ads.x5.ru%29
+
 
 
