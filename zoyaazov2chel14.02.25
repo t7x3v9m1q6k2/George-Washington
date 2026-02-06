@@ -1,4 +1,4 @@
-#profile-title:🅥🅔🅩🅓🅔❎🅞🅓+
+#profile-title:🅥🅔🅩🅓🅔❎🅞🅓
 
 #subscription-userinfo: upload=∞; download=∞; total=0; expire=1771027200;
 #support-url: https://t.me/maxsolomon
@@ -14,8 +14,7 @@
 #sub-expire-button-link: https://t.me/maxsolomon
 ---------------------------------
 
-#announce: base64:4oaW77iP0JbQvNC4INC10YHQu9C4INC90YPQttC90LAg0L/QvtC80L7RidGM8J+TjdCf0L4g0LLQvtC/0YDQvtGB0LDQvCDRgdC+0YLRgNGD0LTQvdC40YfQtdGB0YLQstCwINC20LzQuCDihpfvuI8gCuKchdCb0L7QutCw0YbQuNC4INC/0L7QtCDQvtCx0YXQvtC0INGA0LDQsdC+0YLQsNGO0YIg0LbQtdC70LXQt9C+0LHQtdGC0L7QvdC90L4gMTAwICUK4pyF0J3QsNC20LjQvNCw0Lkg0LrQsNC20LTRi9C5INGB0LXRgNCy0LXRgCDQuCDQvdCw0LnQtNGR0YjRjCDQuNC00LXQsNC70YzQvdGL0Lkg0L/QvtC0INGB0LXQsdGPLgrim5TvuI/QndC1INCy0YDRg9Cx0LDQuSDQu9C+0LrQsNGG0LjQuCDQv9C+0LQg0L7QsdGF0L7QtCDQvdCwIFdpLUZpCg==
-
+#announce: base64:4oaW77iP0JbQvNC4INC10YHQu9C4INC90YPQttC90LAg0L/QvtC80L7RidGM8J+TjdCf0L4g0LLQvtC/0YDQvtGB0LDQvCDRgdC+0YLRgNGD0LTQvdC40YfQtdGB0YLQstCwINC20LzQuCDihpfvuI8gCuKchdCd0LDQttC40LzQsNC5INC60LDQttC00YvQuSDRgdC10YDQstC10YAg0Lgg0L3QsNC50LTRkdGI0Ywg0LjQtNC10LDQu9GM0L3Ri9C5INC/0L7QtCDRgdC10LHRjy4K4puU77iP0J3QtSDQstGA0YPQsdCw0Lkg0LvQvtC60LDRhtC40Lgg0L/QvtC0INC+0LHRhdC+0LQg0L3QsCBXaS1GaQ==
 
 
 ↓↓↓↓↓↓↓↓↓tytnet Wi-Fi↓↓↓↓↓↓↓↓↓
@@ -129,29 +128,27 @@ vless://7409bd8d-9af3-4c28-b5f8-2cfc2aa967fa@5111.250.28.38:8443?security=realit
 vless://ae8ee10c-dbde-2040-aa77-95f7c83dfa84@s1.ws.listwhite.cc:443?path=%2Fupload%2Fsession&security=tls&encryption=none&host=s1.ws.listwhite.cc&fp=chrome&allowinsecure=0&type=ws&sni=s1.ws.listwhite.cc#%F0%9F%87%B5%F0%9F%87%B1%F0%9F%86%95+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA+%231+%F0%9F%94%94
 vless://ae8ee10c-dbde-2040-aa77-95f7c83dfa84@s2.ws.listwhite.cc:443?path=%2Fupload%2Fsession&security=tls&encryption=none&host=s2.ws.listwhite.cc&fp=chrome&allowinsecure=0&type=ws&sni=s2.ws.listwhite.cc#%F0%9F%87%B5%F0%9F%87%B1%F0%9F%86%95+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA+%232+%F0%9F%94%94
 
-нива польша
-
-vless://b3399c9d-ce61-40de-aa18-eca9b6b665b6@51.250.99.49:7443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0(%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%231-Reality)
-vless://b3399c9d-ce61-40de-aa18-eca9b6b665b6@51.250.96.218:8443?security=reality&type=grpc&headerType=&authority=&serviceName=grpc&mode=gun&sni=ads.x5.ru&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=6b2f4e6ac9b1d2f0#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0(%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%232-gRpc)
-vless://b3399c9d-ce61-40de-aa18-eca9b6b665b6@51.250.81.84:8090?security=reality&type=xhttp&headerType=&path=%2F&host=&mode=auto&sni=ads.x5.ru&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=6b2f4e6ac9b1d2f0#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0(%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%233-XHTTP)
 
 
 обходы за 200 от моти
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@89.208.86.178:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=MSMq7nCd7tr_rtmmTjPgxP57wsRC4UYPy4Zdlli_gWo&sid=74266ebb52b82c86&spx=%2F#№1 |🚀 Ракетная опасность |
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@19.dnssitting.ch:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=PBsn-KsOaxIMNCy52i8GT90CCihhJWJR0JNpv8T2ljs&sid=09d2708ae26a3bc3&spx=%2F#№2 |🚀 Ракетная опасность  |
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@95.163.250.227:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=random&pbk=PBsn-KsOaxIMNCy52i8GT90CCihhJWJR0JNpv8T2ljs&sid=09d2708ae26a3bc3&spx=%2F#№3 |🚀 Ракетная опасность  |
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@217.16.17.233:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=MSMq7nCd7tr_rtmmTjPgxP57wsRC4UYPy4Zdlli_gWo&sid=f32ab321dce95a1b&spx=%2F#№3.1 |🚀 Ракетная  опасность |
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@217.16.25.37:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=MSMq7nCd7tr_rtmmTjPgxP57wsRC4UYPy4Zdlli_gWo&sid=f32ab321dce95a1b&spx=%2F#№3.2 |🚀 Ракетная  опасность |
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@23.dnssitting.ch:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=ZFD2UUK3_jn9N5njep3iY2LkFO2LzckQyy6b-iEppV8&sid=09d2708ae26a3bc3&spx=%2F#№4 |🚀 Ракетная  опасность |
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@29.dnssitting.ch:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=920oz-KXM_iG6geSHs_xf7xwDphxikbTLY23QuwnLjU&sid=09d2708ae26a3bc3&spx=%2F#№5 |🚀 Ракетная  опасность |
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@19.dnssitting.ch:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=random&pbk=1zNsz9hNt4K_ze_2Xppmr-_VAgvB1fefERElheNGSxw&sid=f8ec908c29492548&spx=%2F#№6 |🚀 Ракетная  опасность |
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@kart2.applecloud.com.co:443?security=reality&type=grpc&headerType=&authority=&serviceName=&mode=gun&sni=api-maps.yandex.ru&fp=qq&pbk=JooGKtLNpFaUjXzLqMY9iDqzV35h4MBXvtiDFxtuzW0&sid=962592da6cf875ea&spx=%2F#№7 |🚀 Ракетная  опасность |
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@kart2.applecloud.com.co:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=random&pbk=tc1iunMJpzGNrXXa_8FDImojUFs1f6vpMTWDFgoQNEU&sid=a2dd912b6bdfbb3f&spx=%2F#№8 |🚀 Ракетная  опасность |
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@89.208.86.178:11443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&pbk=eUCN4ANJ1OjjrS5yFfG27C6aTnPDoUorBsge13B2LXI&sid=041d415ec0ef4be2&spx=%2F#№9 |🚀 Ракетная  опасность |
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@23.dnssitting.ch:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=random&pbk=M6JHXctD2JONoOghNJOBtUv0w5GYIvVBnz3H5i_LCmQ&sid=a2dd912b6bdfbb3f&spx=%2F#№10 |🚀 Ракетная  опасность |
-vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@ya3.dnssitting.ch:3010?security=none&type=xhttp&headerType=&path=%2Fapi&host=&mode=auto#№11 |🚀 Ракетная  опасность |
 
-
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@217.16.25.37:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=MSMq7nCd7tr_rtmmTjPgxP57wsRC4UYPy4Zdlli_gWo&sid=f32ab321dce95a1b&spx=%2F#№15 |✈️ Беспилотная опасность |
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@185.40.152.92:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=MSMq7nCd7tr_rtmmTjPgxP57wsRC4UYPy4Zdlli_gWo&sid=74266ebb52b82c86&spx=%2F#№13 |✈️ Беспилотная опасность |
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@89.208.86.178:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=MSMq7nCd7tr_rtmmTjPgxP57wsRC4UYPy4Zdlli_gWo&sid=0e9adb3d5e044235&spx=%2F#№1 |✈️ Беспилотная опасность |
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@19.dnssitting.ch:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=PBsn-KsOaxIMNCy52i8GT90CCihhJWJR0JNpv8T2ljs&sid=09d2708ae26a3bc3&spx=%2F#№2 |✈️ Беспилотная опасность |
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@95.163.250.227:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=random&pbk=PBsn-KsOaxIMNCy52i8GT90CCihhJWJR0JNpv8T2ljs&sid=09d2708ae26a3bc3&spx=%2F#№3 |✈️ Беспилотная опасность |
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@217.16.17.233:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=MSMq7nCd7tr_rtmmTjPgxP57wsRC4UYPy4Zdlli_gWo&sid=f32ab321dce95a1b&spx=%2F#№3.1 |✈️ Беспилотная опасность |
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@217.16.25.37:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=MSMq7nCd7tr_rtmmTjPgxP57wsRC4UYPy4Zdlli_gWo&sid=f32ab321dce95a1b&spx=%2F#№3.2 |✈️ Беспилотная опасность |
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@23.dnssitting.ch:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=ZFD2UUK3_jn9N5njep3iY2LkFO2LzckQyy6b-iEppV8&sid=09d2708ae26a3bc3&spx=%2F#№4 |✈️ Беспилотная опасность |
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@29.dnssitting.ch:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=920oz-KXM_iG6geSHs_xf7xwDphxikbTLY23QuwnLjU&sid=09d2708ae26a3bc3&spx=%2F#№5 |✈️ Беспилотная опасность |
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@19.dnssitting.ch:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=random&pbk=1zNsz9hNt4K_ze_2Xppmr-_VAgvB1fefERElheNGSxw&sid=a5ae361072eb2e39&spx=%2F#№6 |✈️ Беспилотная опасность |
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@kart2.applecloud.com.co:443?security=reality&type=grpc&headerType=&authority=&serviceName=&mode=gun&sni=api-maps.yandex.ru&fp=qq&pbk=JooGKtLNpFaUjXzLqMY9iDqzV35h4MBXvtiDFxtuzW0&sid=f7e0d471bfe04b78&spx=%2F#№7 |✈️ Беспилотная опасность |
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@80.93.62.44:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=MSMq7nCd7tr_rtmmTjPgxP57wsRC4UYPy4Zdlli_gWo&sid=74266ebb52b82c86&spx=%2F#№12 |✈️ Беспилотная опасность |
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@kart2.applecloud.com.co:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=random&pbk=tc1iunMJpzGNrXXa_8FDImojUFs1f6vpMTWDFgoQNEU&sid=5ee8693010eb98b8&spx=%2F#№8 |✈️ Беспилотная опасность |
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@89.208.86.178:11443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&pbk=eUCN4ANJ1OjjrS5yFfG27C6aTnPDoUorBsge13B2LXI&sid=e15fc59bc1e0d506&spx=%2F#№9 |✈️ Беспилотная опасность |
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@23.dnssitting.ch:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=random&pbk=M6JHXctD2JONoOghNJOBtUv0w5GYIvVBnz3H5i_LCmQ&sid=a59137af751f33f7&spx=%2F#№10 |✈️ Беспилотная опасность |
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@217.16.25.37:11443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&pbk=eUCN4ANJ1OjjrS5yFfG27C6aTnPDoUorBsge13B2LXI&sid=e15fc59bc1e0d506&spx=%2F#№16 |✈️ Беспилотная опасность |
+vless://f63080c5-bf3a-4fd7-9748-30be2f372cd4@185.40.152.92:11443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&pbk=eUCN4ANJ1OjjrS5yFfG27C6aTnPDoUorBsge13B2LXI&sid=e15fc59bc1e0d506&spx=%2F#№14 |✈️ Беспилотная опасность |
 
 
 
